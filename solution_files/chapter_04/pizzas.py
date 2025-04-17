@@ -1,3 +1,3 @@
-pizzas = ['portuguesa', 'calabresa', 'mussarela', 'margarita']
+pizzas = ['portuguesa', 'calabresa', 'muçarela', 'margarita']
 for pizza in pizzas:
     print(pizza)
