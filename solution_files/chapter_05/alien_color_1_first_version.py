@@ -1,4 +1,4 @@
-alien_color = ['green', 'yellow']
+alien_color = 'green'
 
-if 'green' in alien_color:
+if alien_color == 'green':
     print("You just earned 5 points!")
